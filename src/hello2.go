@@ -18,4 +18,6 @@ func main() {
 	fmt.Println("Hello World 7 - from public repo!")
 
 	fmt.Println("Hello World 8 - from public repo!")
+
+	fmt.Println("Hello World 9 - from public repo!")
 }
