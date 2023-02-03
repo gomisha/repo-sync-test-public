@@ -44,4 +44,6 @@ func main() {
 	fmt.Println("Hello World 20 - from public repo!")
 
 	fmt.Println("Hello World 21 - from public repo!")
+
+	fmt.Println("Hello World 22 - from public repo!")
 }
