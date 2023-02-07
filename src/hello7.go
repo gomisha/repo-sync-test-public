@@ -10,10 +10,4 @@ func main() {
 	fmt.Println("Hello World 3 (hello7)")
 
 	fmt.Println("Hello World 4 (hello7)")
-
-	fmt.Println("Hello World 5 (hello7)")
-
-	fmt.Println("Hello World 6 (hello7)")
-
-	fmt.Println("Hello World 7 (hello7)")
 }
